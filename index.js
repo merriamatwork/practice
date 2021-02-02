@@ -15,7 +15,7 @@ function currentDate() {
     "September",
     "October",
     "November",
-    "December"
+    "December",
   ];
   let days = [
     "Sunday",
@@ -24,7 +24,7 @@ function currentDate() {
     "Wednesday",
     "Thursday",
     "Friday",
-    "Saturday"
+    "Saturday",
   ];
 
   let date = now.getDate();
