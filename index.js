@@ -1,6 +1,5 @@
 //let celsius = Math.round(temperature - (32 * 5) / 9);
 //let fahrenheit = Math.round(temperature);
-const axios = require("axios");
 let now = new Date();
 function currentDate() {
   let months = [
